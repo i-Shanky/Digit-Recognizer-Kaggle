@@ -1,9 +1,11 @@
 # Digit-Recognizer-Kaggle-Competition-
 https://www.kaggle.com/c/digit-recognizer
-Specification of the model: 
-#Dataset- Provided by Kaggle.com
 
-#API- Tensor flow
+Specification of the model:
+
+Dataset- Provided by Kaggle.com
+
+API- Tensor flow
 
 No. of epoch- 100
 
